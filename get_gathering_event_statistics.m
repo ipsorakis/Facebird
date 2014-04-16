@@ -1,0 +1,3 @@
+function get_gathering_event_statistics(output1,output2)
+
+end
